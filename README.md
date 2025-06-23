@@ -2,3 +2,6 @@
 
 # List of color
 - Cyan
+- Emerald green
+- Scarlet
+- Soda
