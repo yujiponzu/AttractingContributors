@@ -1,4 +1,4 @@
 # Please indicate your favourite Colors.
 
-# List of place
+# List of color
 - Cyan
