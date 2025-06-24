@@ -2,4 +2,6 @@
 
 # List of color
 - Emerald green
+- White
+- Blue
 - yellow
