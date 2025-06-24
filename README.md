@@ -3,6 +3,7 @@
 # List of color
 - Emerald green
 - White
+- Sapphire blue
 - blue
 - Yellow
 - light green
