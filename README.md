@@ -3,3 +3,4 @@
 # List of color
 - Emerald green
 - White
+- Sapphire blue
