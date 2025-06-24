@@ -3,6 +3,7 @@
 # List of color
 - Emerald green
 - White
+- blue
 - Yellow
 - light green
 - Purple
