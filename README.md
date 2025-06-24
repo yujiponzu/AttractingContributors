@@ -4,3 +4,9 @@
 - Emerald green
 - White
 - blue
+- Yellow
+- light green
+- Purple
+- Black
+- Blue
+- yellow
