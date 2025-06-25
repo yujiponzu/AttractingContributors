@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favourite video game you played in your childhood.
 
-# List of place
-- mamemame saisai
-- Gusto
+# List of video games
+- Katamari Damacy
+- Biohazard
