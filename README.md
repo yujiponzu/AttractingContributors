@@ -1,4 +1,4 @@
-# 🎌 Your Favorite Anime, Your Recommendation 🎌
+# Your Favorite Anime, Your Recommendation 
 
 My favorite anime is **Bleach** — I love the mix of action, deep character arcs, and epic moments.  
 What’s your favorite anime and which one would you recommend?  
