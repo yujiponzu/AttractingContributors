@@ -5,8 +5,8 @@ What’s your favorite anime and which one would you recommend?
 あなたの好きなアニメは何ですか？おすすめのアニメはありますか？
 
 ## 💬 Your Favorite Anime
-1. Neon Genesis Evangelion
-2. 
+1. Cyberpunk: Edgerunners
+2. Neon Genesis Evangelion
 3. 
 4. 
 5. 
