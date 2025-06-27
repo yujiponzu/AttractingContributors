@@ -3,4 +3,5 @@
 # 好きな車やバイク/your favorite car or bike
 - R12nineT
 - YZF R1M
+- PCX
 - Mini Cooper
