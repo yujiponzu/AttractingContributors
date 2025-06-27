@@ -5,3 +5,4 @@
 - YZF R1M
 - PCX
 - Mini Cooper
+- CROWN COMFORT
