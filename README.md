@@ -1,5 +1,4 @@
-# Please indicate your favourite places to eat near NAIST.
+# 好きな車やバイクの名前を教えてください./What is the name of your favorite car or bike?
 
-# List of place
-- mamemame saisai
-- Gusto
+# 好きな車やバイク/your favorite car or bike
+
