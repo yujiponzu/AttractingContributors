@@ -1,5 +1,5 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please write your favourite collor.
 
 # List of place
-- mamemame saisai
-- Gusto
+- green
+- black
