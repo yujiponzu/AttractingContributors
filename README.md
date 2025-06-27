@@ -1,7 +1,7 @@
 # Your Favorite Anime, Your Recommendation 
 
 My favorite anime is **Bleach** — I love the mix of action, deep character arcs, and epic moments.  
-What’s your favorite anime and which one would you recommend?  
+What’s your favorite anime or which one would you recommend?  
 あなたの好きなアニメは何ですか？おすすめのアニメはありますか？
 
 ## 💬 Your Favorite Anime
