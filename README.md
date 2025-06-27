@@ -6,7 +6,7 @@ What’s your favorite anime and which one would you recommend?
 
 ## 💬 Your Favorite Anime
 1. Cyberpunk: Edgerunners
-2. 
+2. Neon Genesis Evangelion
 3. 
 4. 
 5. 
