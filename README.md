@@ -5,7 +5,7 @@ What’s your favorite anime and which one would you recommend?
 あなたの好きなアニメは何ですか？おすすめのアニメはありますか？
 
 ## 💬 Your Favorite Anime
-1. 
+1. Cyberpunk: Edgerunners
 2. 
 3. 
 4. 
