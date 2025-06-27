@@ -4,3 +4,4 @@
 - R12nineT
 - YZF R1M
 - PCX
+- Mini Cooper
