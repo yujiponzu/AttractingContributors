@@ -6,3 +6,4 @@
 - PCX
 - Mini Cooper
 - CROWN COMFORT
+- Jeep
