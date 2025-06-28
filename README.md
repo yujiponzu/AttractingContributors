@@ -1,5 +1,8 @@
-# Please indicate your favourite places to eat near NAIST.
+# 好きなアーティストを教えてください．
+# Please tell me your favorite artist 
 
-# List of place
-- mamemame saisai
-- Gusto
+
+# List of artist
+- サカナクション
+- super beaver
+- LE SSERAFIM
