@@ -1,5 +1,17 @@
-# Please indicate your favourite places to eat near NAIST.
+# What month do you like?
 
-# List of place
-- mamemame saisai
-- Gusto
+I like August. Please add your favorite month to my repository.
+
+My repository:https://github.com/HY84/AttractingContributors
+
+# List of favorite month
+- August
+- 1
+- 2
+
+# Contribution procedure 
+1. go to repository from link 
+2. edit README.md 
+3. commit and pull request
+
+That's all! Thank you very much.
