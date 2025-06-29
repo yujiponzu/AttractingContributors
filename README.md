@@ -9,14 +9,10 @@ What’s your favorite anime or which one would you recommend?
 2. Neon Genesis Evangelion
 3. JOJO
 4. attack on titan
-5. CLANNAD
-6. 
+5. spyXfamily
+6. CLANNAD
 7. 
 8. 
+8. 
 9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
+10.
