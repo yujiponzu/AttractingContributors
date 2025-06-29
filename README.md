@@ -6,3 +6,4 @@
 - サカナクション
 - super beaver
 - LE SSERAFIM
+- Jun Maeda
