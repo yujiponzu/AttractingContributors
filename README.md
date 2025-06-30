@@ -10,3 +10,4 @@
 - super mario!
 - Fantasy Life
 - The Legend of Zelda: Skyward Sword
+- New Super Mario Bros. DS
