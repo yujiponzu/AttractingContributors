@@ -17,3 +17,7 @@ That's all! Thank you very much.
 - 1
 - 2
 - 8
+- 12
+- 10
+- October
+- 12
