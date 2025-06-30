@@ -1,5 +1,6 @@
-# Please indicate your favourite places to eat near NAIST.
+# 好きな寿司ネタはなんですか？/Please indicate your favourite sushi　topping.
 
 # List of place
-- mamemame saisai
-- Gusto
+- マグロ/Tuna
+- サーモン/Salmon
+many others
