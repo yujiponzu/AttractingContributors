@@ -14,3 +14,4 @@
 - 334
 - QVC Fukushima
 - cookie☆
+- damedane
