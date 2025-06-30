@@ -1,5 +1,13 @@
-# Please indicate your favourite places to eat near NAIST.
+# Please indicate your favourite programming language.
 
 # List of place
-- mamemame saisai
-- Gusto
+- C
+- C++
+- C#
+- COBOL
+- Cotlin
+- Java
+- JavaScript
+- TypeScript
+- R
+- Rust
