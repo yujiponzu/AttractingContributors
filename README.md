@@ -11,3 +11,4 @@
 - Black
 - Blue
 - yellow
+- gold
