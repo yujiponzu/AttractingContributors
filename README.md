@@ -10,3 +10,5 @@
 - super mario!
 - Fantasy Life
 - The Legend of Zelda: Skyward Sword
+- PuyoPuyo
+
