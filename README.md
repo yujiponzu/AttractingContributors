@@ -1,7 +1,5 @@
-# 好きな寿司ネタはなんですか？/Please indicate your favourite sushi　topping.
+# 好きな寿司ネタはなんですか？
+# What is your favorite sushi topping?
 
 # List of place
-- マグロ/Tuna
-- サーモン/Salmon
-
-many others
+-
