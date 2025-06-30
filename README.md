@@ -3,3 +3,4 @@
 # List of place
 - green
 - black
+- gold
