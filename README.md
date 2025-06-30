@@ -6,3 +6,4 @@
 - サカナクション
 - super beaver
 - LE SSERAFIM
+- METALLICA
