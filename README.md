@@ -2,3 +2,5 @@
 
 # List of place
 -マグロ
+- タイ
+
