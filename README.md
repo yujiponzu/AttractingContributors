@@ -10,4 +10,6 @@
 - super mario!
 - Fantasy Life
 - The Legend of Zelda: Skyward Sword
-- Pocketmonster Platinum
+- Pokemon Platinum
+- New Super Mario Bros. DS
+- Monster Hunter 4
