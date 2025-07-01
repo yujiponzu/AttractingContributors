@@ -10,6 +10,6 @@
 - Fantasy Life
 - The Legend of Zelda: Skyward Sword
 - Word of Warcraft
-- Pokemon Platinum
+- Pokémon Platinum
 - New Super Mario Bros. DS
 - Monster Hunter 4
