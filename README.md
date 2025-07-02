@@ -11,5 +11,6 @@ Please Write the programming language you like in "List of Place"
     
 # List of place
 - C
-- Processing
+- Python
+- Python
 - Python
