@@ -7,3 +7,5 @@
 - super beaver
 - LE SSERAFIM
 - 斉藤和義
+- Jun Maeda
+
