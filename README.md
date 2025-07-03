@@ -7,3 +7,9 @@
 - super beaver
 - LE SSERAFIM
 - 403
+- METALLICA
+- 斉藤和義
+- Jun Maeda
+
+
+
